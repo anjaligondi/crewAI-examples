@@ -1,4 +1,4 @@
-# AI Crew for Job Posting
+# AI Crew for Job Posting 
 ## Introduction
 This project demonstrates the use of the CrewAI framework to automate the creation of job posting. CrewAI orchestrates autonomous AI agents, enabling them to collaborate and execute complex tasks efficiently.
 

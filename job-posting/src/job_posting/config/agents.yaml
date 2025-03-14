@@ -4,7 +4,7 @@ research_agent:
   goal: >
     Analyze the company website and provided description to extract
     insights on culture, values, and specific needs.
-  backstory: >
+  backstory: > 
     Expert in analyzing company cultures and identifying key values
     and needs from various sources, including websites and brief descriptions.
 
